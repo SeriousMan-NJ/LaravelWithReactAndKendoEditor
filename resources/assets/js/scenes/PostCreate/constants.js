@@ -1,0 +1,1 @@
+export const EDITOR_VALUE = 'EDITOR_VALUE'
